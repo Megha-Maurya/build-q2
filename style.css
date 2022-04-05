@@ -1,0 +1,42 @@
+:root{
+    --primary-color: #BEF264;
+    --base-color: blue;
+}
+
+body{
+    background-color: var(--primary-color);
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    display: block;
+    padding-top: 5rem;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+.in1{
+    padding: 5px;
+    margin: 5px;
+    font-size: medium;
+}
+
+.in2{
+    padding: 5px;
+    margin: 5px;
+    font-size: medium;
+}
+
+input{
+    padding: 0.6rem;
+    margin: 0.3rem;
+    font-size: medium;
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 0.5rem;
+    font-weight: 500;
+}
+ 
+
